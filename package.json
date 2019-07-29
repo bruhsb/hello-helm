@@ -1,9 +1,9 @@
 {
   "name": "docker-hello",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Basic hello world application for Node.js",
-  "author": "Robbie Minshall <rjminsha@us.ibm.com>",
+  "author": "Bruno S. Brasil <brunnobsbrasil@gmail.com>",
   "dependencies": {
     "express": ">=3.11.0",
     "mocha": "*",
